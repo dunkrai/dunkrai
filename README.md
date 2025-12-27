@@ -3,7 +3,6 @@
 **Development Team Lead & Senior Software Engineer** with 25+ years of experience building scalable applications and leading development teams.
 
 [![Email](https://img.shields.io/badge/Email-dunkrai%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dunkrai@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B66%20098--491--9651-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+66984919651)
 [![Location](https://img.shields.io/badge/Location-Thailand-blue?style=flat-square&logo=google-maps&logoColor=white)]()
 
 ---
@@ -17,7 +16,7 @@ Passionate about building scalable applications and leading development teams. E
 ## 💼 Professional Experience
 
 ### 🏢 Development Team Lead
-**Mobile-Technologies** • *Dec 2012 - Present* (12+ years)
+**Mobile-Technologies** 
 
 - Lead and drive project delivery through full software development lifecycle
 - Manage requirement/scope reviews, estimation, task management, analysis & design
@@ -28,7 +27,7 @@ Passionate about building scalable applications and leading development teams. E
 - Technologies: Java, Spring, Hibernate, NiFi, Android, Flutter, and in-house CMS framework
 
 ### 🏢 Software Engineer
-**ADOC Software Development** • *Feb 2009 - Dec 2023* (13+ years)
+**ADOC Software Development** 
 
 - Developed D300S application based on QT C++ embedded for Linux platform
 - Created SylConnect Windows application using QT C++ framework
@@ -39,14 +38,14 @@ Passionate about building scalable applications and leading development teams. E
 - R&D software development based on Austco Australia requirements
 
 ### 🏢 Senior Java Applications Developer
-**VAS Innovation** • *Feb 2009 - Aug 2009* (6 months)
+**VAS Innovation** 
 
 - Developed WAP AOC (Advice Of Charge) project integrated with Dtac NewCPA Platform
 - R&D development platform based on Python and Turbo Gears
 - Created comprehensive documentation including FDD, AA, PGS, UTC, UTR
 
 ### 🏢 Java Developer
-**Integrate Enterprise Strategy** • *Dec 2007 - Oct 2009* (1 year 10 months)
+**Integrate Enterprise Strategy** 
 
 - Developed Dtac WAP AOC project integrated with Dtac NewCPA Platform
 - Created sample implementations in Python, Turbo Gears, and Flex for internal use
@@ -55,7 +54,7 @@ Passionate about building scalable applications and leading development teams. E
 - Built Corporate 2-Way SMS Platform engine and Administrator for Dtac
 
 ### 🏢 Java Developer
-**Central Information Analysis** • *May 2005 - Dec 2007* (1 year 8 months)
+**Central Information Analysis** 
 
 - Developed Sport Web Application using MVC Pattern, JSP, Servlet, Oracle Pool
 - Implemented AJAX, JavaScript, CSS, DHTML, JSONRPC, Display Tag, JSTL
@@ -63,7 +62,7 @@ Passionate about building scalable applications and leading development teams. E
 - Developed Report Service using .NET 2.0 and Java technology with xFire Web Service
 
 ### 🏢 Applications Developer
-**3gconsult (Outsource YAMAHA Thailand)** • *Dec 2005 - May 2005* (5 months)
+**3gconsult (Outsource YAMAHA Thailand)** 
 
 - Developed projects using WebSphere Developer and Portlet Project Development
 - Built Dealer Profile Project for tracking dealer history
@@ -71,14 +70,14 @@ Passionate about building scalable applications and leading development teams. E
 - Technologies: JSP, Servlet, Portlet, iText, JFreeReport, Apache POI, CSS, JavaScript
 
 ### 🏢 Programmer
-**Pataya Food** • *May 2003 - Dec 2005* (1 year 8 months)
+**Pataya Food** 
 
 - Maintained, installed, and supported Movex ERP Application
 - Developed programs and reports for Movex ERP (Inventory Control, Sales Order)
 - Set up, reconfigured, and maintained Oracle Database for HR and Payroll System
 
 ### 🏢 Programmer
-**TW Group** • *May 2000 - Jan 2003* (3+ years)
+**TW Group** • 
 
 - Developed Inventory Control and Point of Sales programs using Visual Basic 6 and Crystal Report
 - Created Human Resource and Payroll system for head office using Java Swing 1.2.2
@@ -130,8 +129,7 @@ Passionate about building scalable applications and leading development teams. E
 
 | Degree | Field | Institution | Year |
 |--------|-------|-------------|------|
-| 🎓 Bachelor's Degree | Computer Science | Ratchabhat Petchaboon Institute | 1999 |
-| 📜 Master's Degree | Computer Science | Ratchabhat Petchaboon Institute | 1996 |
+| 🎓 Bachelor's Degree | Computer Science | Ratchabhat Petchaboon Institute | 19XX |
 
 ---
 
